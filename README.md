@@ -1,6 +1,6 @@
 # 1-р ангийн математик
 Source: https://www.time4learning.com/homeschool-curriculum/elementary-school/first-grade/math.html
-## First Grade Online Homeschool Math Curriculum
+## Нэгдүгээр ангийн онлайн гэрийн сургуулийн математикийн сургалтын хөтөлбөр
 
 A first grade math curriculum should teach students the fundamentals in a way that is not just effective, but also fun. In addition to giving students a solid foundation, first grade math fluency also arms students with the tools and confidence they need to learn more advanced concepts down the road.
 
