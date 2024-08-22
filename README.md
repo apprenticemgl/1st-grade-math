@@ -6,7 +6,7 @@ A first grade math curriculum should teach students the fundamentals in a way th
 
 If a child can’t keep up with a first grade math curriculum, not only will they fall behind and, in turn, lose confidence, but they’ll also lose interest in the subject. Additionally, the skills and concepts that students learn in first grade math aren’t just limited to use in their academic studies. First grade math fluency also helps students become better problem solvers and logical thinkers.
 
-## What Math Should a 1st Grader Know
+## 1-р ангийн сурагч математикийн талаар юу мэдэх ёстой вэ
 
 Students will acquire tons of new math skills in first grade. This knowledge will serve as a foundation for what they will learn in second grade math and also expand on what they learned in kindergarten. As they go into first grade, students should be familiar with a number of concepts in order for them to be successful and learn more advanced topics and math strategies. These include, but are not limited to:
 
@@ -18,7 +18,7 @@ Students will acquire tons of new math skills in first grade. This knowledge wil
 
 The ideal math curriculum for first grade should not only build on these skills and ensure mastery of new concepts, but also make learning fun by engaging and motivating students.
 
-## Math Objectives for 1st Grade
+## 1-р ангийн математикийн зорилтууд
 Once you’ve selected the ideal math curriculum, it is important to set some attainable goals. Below is a sample of what some of these math goals should be:
 
 - Count to 100; county by 5s and 10s to 100; count by 2s to 40
@@ -31,18 +31,18 @@ Once you’ve selected the ideal math curriculum, it is important to set some at
  
 Towards the end of the year, if your child has already achieved most of their first grade math goals you can give them a head start for the next year by having them practice math facts. This will solidify what they learned in first grade and prepare them for their second grade math learning targets.
 
-## 1st Grade Math Scope & Sequence
+## 1-р ангийн математикийн хамрах хүрээ ба дараалал
 
-### Chapter 1: “Number Sense”
-#### Lesson 1: Read Numbers – 2 Activities
+### 1-р бүлэг: “Тооны мэдрэмж”
+#### Lesson 1: Тоо унших - 2 үйл ажиллагаа
 - Read whole numbers up to 100. Use one-to-one correspondence to count objects up to 100.
 #### Lesson 2: Compare Numbers – 2 Activities
 - Compare and order whole numbers up to 100 by understanding the concepts of greater than, less than, and equality.
 #### Lesson 3: Ordinal Numbers – 2 Activities
 - Match ordinal numbers with an ordered set of up to ten items. Identify first, second, and third by name.
-#### Lesson 4: Count Numbers – 2 Activities
+#### Lesson 4: Тоо тоолох – 2 үйл ажиллагаа
 - Count forward and backward by ones and count forward by tens from any number less than 100.
-#### Lesson 5: Place Value – 2 Activities
+#### Lesson 5: Үнэ цэнийг байршуулах - 2 үйл ажиллагаа
 - Identify the place value of a digit in whole numbers to 100. Identify the value of digits up to the hundreds place.
 #### Lesson 6: Compare with Place Value – 2 Activities
 - Group objects by tens and ones. Compare and order whole numbers up to 100 using place value.
