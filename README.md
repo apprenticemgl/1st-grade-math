@@ -1,4 +1,4 @@
-# 1st-grade-math
+# 1-р ангийн математик
 Source: https://www.time4learning.com/homeschool-curriculum/elementary-school/first-grade/math.html
 ## First Grade Online Homeschool Math Curriculum
 
