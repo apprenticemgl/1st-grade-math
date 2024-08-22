@@ -31,3 +31,21 @@ Once you’ve selected the ideal math curriculum, it is important to set some at
 Towards the end of the year, if your child has already achieved most of their first grade math goals you can give them a head start for the next year by having them practice math facts. This will solidify what they learned in first grade and prepare them for their second grade math learning targets.
 
 ## 1st Grade Math Scope & Sequence
+
+### Chapter 1: “Number Sense”
+#### Lesson 1: Read Numbers – 2 Activities
+- Read whole numbers up to 100. Use one-to-one correspondence to count objects up to 100.
+#### Lesson 2: Compare Numbers – 2 Activities
+- Compare and order whole numbers up to 100 by understanding the concepts of greater than, less than, and equality.
+#### Lesson 3: Ordinal Numbers – 2 Activities
+- Match ordinal numbers with an ordered set of up to ten items. Identify first, second, and third by name.
+#### Lesson 4: Count Numbers – 2 Activities
+- Count forward and backward by ones and count forward by tens from any number less than 100.
+#### Lesson 5: Place Value – 2 Activities
+- Identify the place value of a digit in whole numbers to 100. Identify the value of digits up to the hundreds place.
+#### Lesson 6: Compare with Place Value – 2 Activities
+- Group objects by tens and ones. Compare and order whole numbers up to 100 using place value.
+#### Lesson 7: Count by Twos and Fives – 2 Activities
+- Count forward by twos and fives up to 50.
+#### Lesson 8: Odd and Even Numbers – 2 Activities
+- Model and identify even and odd numbers.
